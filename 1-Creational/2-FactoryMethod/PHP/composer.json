@@ -1,0 +1,15 @@
+{
+    "name": "factory/method",
+    "autoload": {
+        "psr-4": {
+            "Factory\\Method\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amr Kahla",
+            "email": "amrkahla6@gmail.com"
+        }
+    ],
+    "require": {}
+}
