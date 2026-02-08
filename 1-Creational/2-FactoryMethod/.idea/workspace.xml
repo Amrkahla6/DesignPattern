@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="884d37e7-de5e-4ee7-989e-867e6e97b4dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/SimpleFactory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/EcommerceShipping/AramexShipping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/EcommerceShipping/DHLShipping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/EcommerceShipping/Shipping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/EcommerceShipping/ShippingFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/PaymentTask/CashPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/PaymentTask/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/PaymentTask/PaymentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/PaymentTask/PaypalPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/out/production/SimpleFactory/PaymentTask/VisaPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/EcommerceShipping/AramexShipping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/EcommerceShipping/DHLShipping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/EcommerceShipping/Shipping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/EcommerceShipping/ShippingFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/PaymentTask/CashPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/PaymentTask/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/PaymentTask/PaymentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/PaymentTask/PaypalPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/Java/src/PaymentTask/VisaPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/.idea/PHP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/DoorExample/Door.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/DoorExample/DoorFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/DoorExample/WoodenDoor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/FileStorageSystem/LocalStorage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/FileStorageSystem/S3Storage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/FileStorageSystem/StorageFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/FileStorageSystem/StorageInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/NotificationSystem/EmailNotification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/NotificationSystem/NotificationFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/NotificationSystem/NotificationInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/NotificationSystem/PushNotification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/NotificationSystem/SMSNotification.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/PaymentSystem/CashPayment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/PaymentSystem/PaymentFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/PaymentSystem/PaymentInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/PaymentSystem/PaypalPayment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/PaymentSystem/StripePayment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Factory/PHP/vendor/composer/autoload_static.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="39OMCoPa9pTlJZiWEAsRFRCDXhb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="884d37e7-de5e-4ee7-989e-867e6e97b4dd" name="Changes" comment="" />
+      <created>1770562540824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770562540824</updated>
+      <workItem from="1770562545123" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
